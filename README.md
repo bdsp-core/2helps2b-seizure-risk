@@ -1,5 +1,9 @@
 # 2HELPS2B: an EEG-based seizure-risk score for hospitalized patients
 
+> **Code repository.** This repo holds the analysis code; the de-identified **data** live in the bdsp.io **credentialed release** (data → AWS, code → GitHub):
+> [bdsp.io/content/9p4thx40feddul6enpmd/1.0.0](https://bdsp.io/content/9p4thx40feddul6enpmd/1.0.0/) · DOI [10.60508/yzjf-5789](https://doi.org/10.60508/yzjf-5789) · `s3://bdsp-opendata-credentialed/2helps2b-seizure-risk/`
+
+
 MATLAB code and de-identified data for:
 
 > Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche SM, Hirsch LJ, Gilmore EJ, Vlachy J,
